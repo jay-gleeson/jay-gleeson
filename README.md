@@ -4,9 +4,6 @@
   <a href="https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024?style=flat"></a>
 </div>
 
-<img alt="Open to Work" src="https://i.imgur.com/0OlOLka.gif" width=1200 height=200>
-<br>
-
 <h1>Hi, I'm Jay! 🫶</h1>
 <p>I am pursuing a Computer Science degree at Golden West College, and I am incredibly excited about this opportunity to start my career. I am very ambitious about the prospect of becoming a valuable Software Developer. Throughout my studies, I have worked with a variety of programming languages, tackling challenges and finding innovative solutions to complex problems. My strong skills in logic and critical thinking inspire me to create impactful and meaningful projects as well.
 
