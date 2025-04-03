@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://www.linkedin.com/in/jay-g-b26800308/"><img alt="ℹLinkedIn" src="https://img.shields.io/badge/◻️LinkedIn-0a66c2?style=flat"></a>
+  <a href="https://github.com/jay-gleeson"><img alt="Status" src="https://api.statusbadges.me/badge/status/122135843598814826"></a>
+  <a href="https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024?style=flat"></a>
+</div>
 
-<!--
-**jay-gleeson/jay-gleeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Jay! 🫶</h1>
+<p>I am pursuing a Computer Science degree at Golden West College, and I am incredibly excited about this opportunity to start my career. I am very ambitious about the prospect of becoming a valuable Software Developer. Throughout my studies, I have worked with a variety of programming languages, tackling challenges and finding innovative solutions to complex problems. My strong skills in logic and critical thinking inspire me to create impactful and meaningful projects as well.
 
-Here are some ideas to get you started:
+As a full-time student, I push to actively engage in both my local and school communities, often leveraging my technical skill to contribute. Whether through personal projects or collaboration with my peers, I am committed to using my abilities to positively effect my colleagues and perform at my work in a meaningful way. I am determined to pioneer useful projects within some of my main interests groups like machine learning, app development, and web and graphic design respectively.</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>🛠 Skills</h2>
+  <img alt="C++, Anaconda, Tensorflow, HTML, CSS, VSCode, Git, Github" src="https://skillicons.dev/icons?i=cpp,py,anaconda,tensorflow,html,css,vscode,git,github">
+</div>
