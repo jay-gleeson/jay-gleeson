@@ -7,11 +7,22 @@
 </div>
 
 <h1>Hi, I'm Jay! 🫶</h1>
-<p>I am pursuing a Computer Science degree at Golden West College, and I am incredibly excited about this opportunity to start my career. I am very ambitious about the prospect of becoming a valuable Software Developer. Throughout my studies, I have worked with a variety of programming languages, tackling challenges and finding innovative solutions to complex problems. My strong skills in logic and critical thinking inspire me to create impactful and meaningful projects as well.
+<p>I am pursuing a Computer Science degree at Golden West College, and I am incredibly excited about this opportunity to start my career. I am very ambitious about the prospect of becoming a valuable Software Developer. Throughout my studies, I have worked with a variety of programming languages, tackling challenges and finding innovative solutions to complex problems. My strong skills in logic and critical thinking inspire me to create impactful and meaningful projects as well.</p>
 
-As a full-time student, I push to actively engage in both my local and school communities, often leveraging my technical skill to contribute. Whether through personal projects or collaboration with my peers, I am committed to using my abilities to positively effect my colleagues and perform at my work in a meaningful way. I am determined to pioneer useful projects within some of my main interests groups like machine learning, app development, and web and graphic design respectively.</p>
+<br>
 
 <div align="center">
+<h2>Project Spotlight 🌟</h2>
+
+| Project Name                      | Description                                                                                      |
+|------------------------------------|--------------------------------------------------------------------------------------------------|
+| **ASTRO ASL** 📝                 | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
+| **Graduation Prediction Project** 🎓 | Data Science project to correlate graduation rates to income statistics.                          |
+| **The Big Bad Riding Hood** 🦊       | Text-based adventure game in C++, submitted as final project for C++1.                             |
+
+
+<br>
+
   <h2>🛠 Skills</h2>
   <img alt="C++, Anaconda, Tensorflow, HTML, CSS, VSCode, Git, Github" src="https://skillicons.dev/icons?i=cpp,py,anaconda,tensorflow,html,css,vscode,git,github">
 </div>
