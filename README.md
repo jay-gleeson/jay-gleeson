@@ -18,7 +18,7 @@
 |------------------------------------|--------------------------------------------------------------------------------------------------|
 | **ASTRO ASL** 📝                 | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
 | **Graduation Prediction Project** 🎓 | Data Science project to correlate graduation rates to income statistics.                          |
-| **The Big Bad Riding Hood** 🦊       | Text-based adventure game in C++, submitted as final project for C++1.                             |
+| **The Big Bad Riding Hood** 🐺       | Text-based adventure game in C++, submitted as final project for C++1.                             |
 
 
 <br>
