@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/jay-gleeson"><img alt="Status" src="https://img.shields.io/badge/happy_to-be_here-green"></a>
+  <a href="https://github.com/jay-gleeson"><img alt="Status" src="https://img.shields.io/badge/happy_to-be_here-brightgreen"></a>
   <a href="https://www.linkedin.com/in/jay-glee"><img alt="ℹLinkedIn" src="https://img.shields.io/badge/◻️LinkedIn-0a66c2?style=flat"></a>
   <a href="https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024?style=flat"></a>
 
