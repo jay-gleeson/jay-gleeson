@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jay-gleeson"><img alt="Status" src="https://img.shields.io/badge/happy_to-be_here-brightgreen"></a>
-  <a href="https://www.linkedin.com/in/jay-glee"><img alt="ℹLinkedIn" src="https://img.shields.io/badge/◻️LinkedIn-0a66c2?style=flat"></a>
+  <a href="https://github.com/jay-gleeson/site"><img alt="🌐 Website" src="https://img.shields.io/badge/🌐 Site Repo-0a66c2?style=flat"></a>
   <a href="https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024?style=flat"></a>
 
   <img alt="Close-up Photography of Green Leafed Plants by Johannes Plenio on Pexels" src="https://github.com/jay-gleeson/jay-gleeson/blob/main/image.png" style="width:100%; height:auto;">
@@ -22,6 +22,6 @@ I am currently pursuing a degree in Computer Science at Golden West College and 
 
 ---
 
-## 🛠 Skills
+## Skills 🛠
 
 ![Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,vscode,github)
