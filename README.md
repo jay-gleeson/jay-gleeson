@@ -8,7 +8,7 @@
 
 # Hi, I'm Jay! 🫶
 
-I am currently pursuing a degree in Computer Science at Golden West College and am excited to begin my career in software development. I am highly motivated to become a valuable Software Developer and have gained experience with various programming languages through my studies. I enjoy tackling challenges and finding innovative solutions to complex problems. My strengths in logic and critical thinking drive me to develop meaningful and impactful projects.
+I am currently pursuing a degree in Computer Science at Golden West College. I am also excited to begin my career in software development. I am highly motivated to become a valuable Software Developer and have gained experience with various programming languages through my studies. I enjoy tackling challenges and finding innovative solutions to complex problems. My strengths in logic and critical thinking drive me to develop meaningful and impactful projects.
 
 ---
 
