@@ -8,7 +8,7 @@
 
 # Hi, I'm Jay! 🫶
 
-I am currently pursuing a degree in Computer Science at Golden West College. I am also excited to begin my career in software development. I am highly motivated to become a valuable Software Developer and have gained experience with various programming languages through my studies. I enjoy tackling challenges and finding innovative solutions to complex problems. My strengths in logic and critical thinking drive me to develop meaningful and impactful projects.
+I am a first year student at Golden West College majoring in Computer Science. I am very excited to begin my career in Software Development! I am a highly motivated person and very excited to become a valuable asset in my field! In my time at Golden West and through both social events and personal projects I have developed my skills in various languages. I immensely enjoy tackling challenges and finding innovative solutions to complex problems. I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful projects.
 
 ---
 
@@ -17,7 +17,7 @@ I am currently pursuing a degree in Computer Science at Golden West College. I a
 | Project Name                      | Description                                                                                      |
 |------------------------------------|--------------------------------------------------------------------------------------------------|
 | **ASTRO ASL** 📝                   | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
-| **Graduation Prediction Project** 🎓 | Data Science project correlating graduation rates with income statistics.                          |
+| **ML Graduation Prediction** 🎓 | Data Science project correlating graduation rates with income statistics.                          |
 | **The Big Bad Riding Hood** 🐺     | Text-based adventure game in C++, submitted as the final project for C++1.                         |
 
 ---
