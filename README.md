@@ -8,7 +8,9 @@
 
 # Hi, I'm Jay! 🫶
 
-I am a first year student at Golden West College majoring in Computer Science. I am very excited to begin my career in Software Development! I am a highly motivated person and very excited to become a valuable asset in my field! In my time at Golden West and through both social events and personal projects I have developed my skills in various languages. I immensely enjoy tackling challenges and finding innovative solutions to complex problems. I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful projects.
+I am a first-year student at Golden West College 🎓 majoring in Computer Science . I am very excited to begin my career in Software Development!
+I am a highly motivated person and eager to become a valuable asset in my field! 🚀 In my time at Golden West, through both social events and personal projects, I have developed my skills in various programming languages.
+I immensely enjoy tackling challenges and finding innovative solutions to complex problems. ✨ I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful projects!
 
 ---
 
