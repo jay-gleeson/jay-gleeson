@@ -24,5 +24,5 @@ I immensely enjoy tackling challenges and finding innovative solutions to comple
 
 ## Skills 🛠
 <div align="center">
-  <img alt="CPP, PY, JS, TS, HTML/CSS, VSC, GH" src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,vscode,github">
+  <img alt="CPP, PY, JAVA, JS, TS, HTML/CSS, VSC, GH" src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,html,css,vscode,github">
 </div>
