@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/jay-gleeson"><img alt="Status" src="https://img.shields.io/badge/happy_to-be_here-brightgreen"></a>
   <a href="https://github.com/jay-gleeson/site"><img alt="🌐 Website" src="https://img.shields.io/badge/🌐 Site Repo-0a66c2?style=flat"></a>
-  <a href="https://github.com/jay-gleeson/Pairs-Trading-CSUF-Summer-2025"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/Data-Science-CSUF-Summer-2024?style=flat"></a>
+  <a href="https://github.com/jay-gleeson/fintech-pairs-csuf"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/fintech-pairs-csuf?style=flat"></a>
   <img alt="Close-up Photography of Green Leafed Plants by Johannes Plenio on Pexels" src="https://github.com/user-attachments/assets/4e87b657-181b-403b-91ce-b92a9f362420" style="width:100%; height:auto;">
 </div>
 
@@ -18,7 +18,7 @@ I immensely enjoy tackling challenges and finding innovative solutions to comple
   |------------------------------------|--------------------------------------------------------------------------------------------------|
   | **ASTRO ASL** 📝                   | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
   | **ML Graduation Prediction** 🎓 | Data Science project correlating graduation rates with income statistics.                          |
-  | **The Big Bad Riding Hood** 🐺     | Text-based adventure game in C++, submitted as the final project for C++1.                         |
+  | **The Big Bad Riding Hood** 🐺     | Text-based adventure game in C++, submitted as the final project for CS175.                         |
   
 </div>
 
