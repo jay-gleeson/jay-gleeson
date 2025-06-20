@@ -18,7 +18,7 @@ I immensely enjoy tackling challenges and finding innovative solutions to comple
   |------------------------------------|--------------------------------------------------------------------------------------------------|
   | **ASTRO ASL** 📝                   | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
   | **ML Graduation Prediction** 🎓 | Data Science project correlating graduation rates with income statistics.                          |
-  | **The Big Bad Riding Hood** 🐺     | Text-based adventure game in C++, submitted as the final project for CS175.                         |
+  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to utilize statistical strategies on credit network stocks.                     |
   
 </div>
 
