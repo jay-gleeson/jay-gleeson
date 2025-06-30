@@ -2,7 +2,7 @@
   <a href="https://github.com/jay-gleeson"><img alt="Status" src="https://img.shields.io/badge/happy_to-be_here-brightgreen"></a>
   <a href="https://site-azure-one.vercel.app/"><img alt="🌐 Website" src="https://img.shields.io/badge/🌐 Website-0a66c2?style=flat"></a>
   <a href="https://github.com/jay-gleeson/fintech-pairs-csuf"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/jay-gleeson/fintech-pairs-csuf?style=flat"></a>
-  <img alt="Close-up Photography of Green Leafed Plants by Johannes Plenio on Pexels" src="https://github.com/user-attachments/assets/4e87b657-181b-403b-91ce-b92a9f362420" style="width:100%; height:auto;">
+  <img alt="Acrylic Drip Painting by Mathias Reding on Pexels" src="https://github.com/user-attachments/assets/5472eb46-7629-403e-8ba4-e25e387685c6" style="width:100%; height:auto;">
 </div>
 
 # Hi, I'm Jay! 🫶
