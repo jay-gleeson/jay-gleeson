@@ -9,7 +9,7 @@
 
 I am a second-year student at Golden West College 🎓 majoring in Computer Science. I am very excited to begin my career in Software Development!
 I am a highly motivated person and eager to become a valuable asset in my field! 🚀 In my time at Golden West, through both social events and personal projects, I have developed my skills in various programming languages.
-I immensely enjoy tackling challenges and finding innovative solutions to complex problems. ✨ I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful projects!
+I enjoy tackling challenges and finding innovative solutions to complex problems. ✨ And I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful projects!
 
 ## Project Spotlight 🌟
 <div align="center">
@@ -18,7 +18,7 @@ I immensely enjoy tackling challenges and finding innovative solutions to comple
   |------------------------------------|--------------------------------------------------------------------------------------------------|
   | **ASTRO ASL** 📝                   | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
   | **ML Graduation Prediction** 🎓 | Data Science project correlating graduation rates with income statistics.                          |
-  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to utilize statistical strategies on credit network stocks.                     |
+  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to compare and profit off a Visa and Mastercard pair.                    |
   
 </div>
 
