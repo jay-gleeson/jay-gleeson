@@ -7,9 +7,10 @@
 
 # Hi, I'm Jay! 🫶
 
-I am a second-year student at Golden West College 🎓 majoring in Computer Science. I am very excited to begin my career in Software Development!
-I am a highly motivated person and eager to become a valuable asset in my field! 🚀 In my time at Golden West, through both social events and personal projects, I have developed my skills in various programming languages.
-I enjoy tackling challenges and finding innovative solutions to complex problems. ✨ And I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful projects!
+I’m a second-year Computer Science student at Golden West College 🎓 with a strong passion for Software Development. I’m eager to launch my career and contribute meaningfully to the tech industry by building solutions that solve real-world problems.
+Over the past two years, I’ve grown both technically and personally through a mix of academic coursework, personal projects, and involvement in campus activities. I’ve developed a solid foundation in programming languages such as Python, Java, and C++, and have also worked with tools like Git, Visual Studio Code, and basic web technologies like HTML, CSS, and JavaScript.
+I’m a highly motivated and curious individual 🚀 who enjoys learning new technologies and applying them creatively. I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful software ✨. I’m excited to continue building my skill set and am currently seeking opportunities, whether internships, collaborative projects, or mentorships, that allow me to learn from others and contribute to innovative work. 
+
 
 ## Project Spotlight 🌟
 <div align="center">
