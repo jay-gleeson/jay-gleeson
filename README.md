@@ -15,11 +15,11 @@ I’m a highly motivated and curious individual 🚀 who enjoys learning new tec
 ## Project Spotlight 🌟
 <div align="center">
   
-  | Project Name                      | Description                                                                                      |
-  |------------------------------------|--------------------------------------------------------------------------------------------------|
-  | **ASTRO ASL** 📝                   | ML-powered live American Sign Language transcription tool using TensorFlow.                       |
-  | **ML Graduation Prediction** 🎓 | Data Science project correlating graduation rates with income statistics.                          |
-  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to compare and profit off a Visa and Mastercard pair.                    |
+  | Project Name                        | Description                                                                                      |
+  |-------------------------------------|--------------------------------------------------------------------------------------------------|
+  | **ASTRO ASL** 📝                    | ML-powered live American Sign Language transcription tool using TensorFlow.                      |
+  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to compare and profit off a Visa and Mastercard pair.                      |
+  | **The Big Bad Riding Hood** 🐺      | Text-based adventure game in C++, submitted as the final project for Intro to C++.               |
   
 </div>
 
