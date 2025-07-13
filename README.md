@@ -17,9 +17,9 @@ I’m a highly motivated and curious individual 🚀 who enjoys learning new tec
   
   | Project Name                        | Description                                                                                      |
   |-------------------------------------|--------------------------------------------------------------------------------------------------|
-  | **ASTRO ASL** 📝                    | ML-powered live American Sign Language transcription tool using TensorFlow.                      |
-  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to compare and profit off a Visa and Mastercard pair.                      |
-  | **The Big Bad Riding Hood** 🐺      | Text-based adventure game in C++, submitted as the final project for C++ Programming.            |
+  | **ASTRO ASL** 📝                    | Machine Learning American Sign Language transcription tool using TensorFlow.                     |
+  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to compare and profit off of the Visa v. Mastercard pair.                  |
+  | **The Big Bad Riding Hood** 🐺      | Text-based classic twisted fairy tale adventure game written in C++.                             |
   
 </div>
 
