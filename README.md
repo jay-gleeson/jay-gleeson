@@ -6,10 +6,9 @@
 </div>
 
 # Hi, I'm Jay! 🫶
-
-I’m a second-year Computer Science student at Golden West College 🎓 with a strong passion for Software Development. I’m eager to launch my career and contribute meaningfully to the tech industry by building solutions that solve real-world problems.
-Over the past two years, I’ve grown both technically and personally through a mix of academic coursework, personal projects, and involvement in campus activities. I’ve developed a solid foundation in programming languages such as Python, Java, and C++, and have also worked with tools like Git, Visual Studio Code, and basic web technologies like HTML, CSS, and JavaScript.
-I’m a highly motivated and curious individual 🚀 who enjoys learning new technologies and applying them creatively. I believe my strengths in logic and critical thinking drive me to develop meaningful and impactful software ✨. I’m excited to continue building my skill set and am currently seeking opportunities, whether internships, collaborative projects, or mentorships, that allow me to learn from others and contribute to innovative work. 
+I’m a second-year Computer Science student at Golden West College 🎓, focused on building a career in software development. I’m looking to contribute to the tech industry by working on projects that solve real-world problems.
+Over the last two years, I’ve gained significant experience through coursework, personal projects, and campus involvement ✨. I’m experienced with programming languages like Python, Java, and C++, and I’ve worked with tools like Git, Visual Studio Code, and basic webdev technologies (HTML, CSS, JavaScript).
+I’m a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I’m motivated to keep learning and improving my skills. Right now, I’m looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
 
 
 ## Project Spotlight 🌟
