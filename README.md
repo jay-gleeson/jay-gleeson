@@ -10,7 +10,8 @@ I’m a second-year Computer Science student at Golden West College 🎓, focuse
 Over the last two years, I’ve gained significant experience through coursework, personal projects, and campus involvement ✨. I’m experienced with programming languages like Python, Java, and C++, and I’ve worked with tools like Git, Visual Studio Code, and basic webdev technologies (HTML, CSS, JavaScript).
 I’m a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I’m motivated to keep learning and improving my skills. Right now, I’m looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
 
-
+## Website 🌐
+If you would like to, please check out my website, hosted with Vercel! See: [site-azure-one.vercel.app](https://site-azure-one.vercel.app/).
 ## Project Spotlight 🌟
 <div align="center">
   
