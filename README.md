@@ -11,7 +11,7 @@ Over the last two years, I’ve gained significant experience through coursework
 I’m a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I’m motivated to keep learning and improving my skills. Right now, I’m looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
 
 ## Website 🌐
-You're welcome to visit my website, deployed with Vercel! See: [site-azure-one.vercel.app](https://site-azure-one.vercel.app/).
+You're welcome to visit my website, deployed with Vercel. See: [site-azure-one.vercel.app](https://site-azure-one.vercel.app/).
 
 ## Project Spotlight 🌟
 <div align="center">
