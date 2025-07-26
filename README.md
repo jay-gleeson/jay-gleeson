@@ -11,15 +11,16 @@ Over the last two years, I’ve gained significant experience through coursework
 I’m a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I’m motivated to keep learning and improving my skills. Right now, I’m looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
 
 ## Website 🌐
-If you would like to, please check out my website, hosted with Vercel! See: [site-azure-one.vercel.app](https://site-azure-one.vercel.app/).
+You're welcome to visit my website, deployed with Vercel! See: [site-azure-one.vercel.app](https://site-azure-one.vercel.app/).
+
 ## Project Spotlight 🌟
 <div align="center">
   
   | Project Name                        | Description                                                                                      |
   |-------------------------------------|--------------------------------------------------------------------------------------------------|
-  | **Financial Tech Pairs Trading** 💳 | Pairs Trading project to compare and profit off of the Visa v. Mastercard pair.                  |
-  | **ASTRO ASL** 📝                    | Machine Learning American Sign Language transcription tool using TensorFlow.                     |
-  | **The Big Bad Riding Hood** 🐺      | Text-based classic twisted fairy tale adventure game written in C++.                             |
+  | **Financial Tech Pairs Trading** 💳 | Pairs trading strategy using Visa and Mastercard to identify and exploit price gaps.             |
+  | **ASTRO ASL** 📝                    | Machine learning-based ASL transcription system developed with TensorFlow.                       |
+  | **The Big Bad Riding Hood** 🐺      | Text-driven fairy tale adventure game with a twist, written in C++.                              |
   
 </div>
 
