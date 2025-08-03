@@ -5,10 +5,10 @@
   <img alt="Acrylic Drip Painting by Mathias Reding on Pexels" src="https://github.com/user-attachments/assets/5472eb46-7629-403e-8ba4-e25e387685c6" style="width:100%; height:auto;">
 </div>
 
-# Hi, I'm Jay! 🫶
-I’m a second-year Computer Science student at Golden West College 🎓, focused on building a career in software development. I’m looking to contribute to the tech industry by working on projects that solve real-world problems.
-Over the last two years, I’ve gained significant experience through coursework, personal projects, and campus involvement ✨. I’m experienced with programming languages like Python, Java, and C++, and I’ve worked with tools like Git, Visual Studio Code, and basic webdev technologies (HTML, CSS, JavaScript).
-I’m a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I’m motivated to keep learning and improving my skills. Right now, I’m looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
+# Hi, I am Jay! 🫶
+I am a second-year Computer Science student at Golden West College 🎓, focused on building a career in software development. I am looking to contribute to the tech industry by working on projects that solve real-world problems.
+Over the last two years, I’ve gained significant experience through coursework, personal projects, and campus involvement ✨. I am experienced with programming languages like Python, Java, and C++, and I’ve worked with tools like Git, Visual Studio Code, and basic webdev technologies (HTML, CSS, JavaScript).
+I am a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I am motivated to keep learning and improving my skills. Right now, I am looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
 
 ## Website 🌐
 You're welcome to visit my website, deployed with Vercel. See: [site-azure-one.vercel.app](https://site-azure-one.vercel.app/).
@@ -26,5 +26,5 @@ You're welcome to visit my website, deployed with Vercel. See: [site-azure-one.v
 
 ## Skills 🛠
 <div align="center">
-  <img alt="CPP, PY, JAVA, JS, TS, HTML/CSS, VSC, GH" src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,html,css,vscode,github">
+  <img alt="CPP, PY, JAVA, JS, TS, HTML/CSS, VSC, GH, LINUX" src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,html,css,vscode,github,linux">
 </div>
