@@ -6,8 +6,8 @@
 </div>
 
 # Hi, I am Jay! 🫶
-I am a second-year Computer Science student at Golden West College 🎓, focused on building a career in software development. I am looking to contribute to the tech industry by working on projects that solve real-world problems.
-Over the last two years, I’ve gained significant experience through coursework, personal projects, and campus involvement ✨. I am experienced with programming languages like Python, Java, and C++, and I’ve worked with tools like Git, Visual Studio Code, and basic webdev technologies (HTML, CSS, JavaScript).
+I am a third-year Computer Science student at University of California, Berkeley 🎓, focused on building a career in software development. I am looking to contribute to the tech industry by working on projects that solve real-world problems.
+Over the last three years, I’ve gained significant experience through coursework, personal projects, and campus involvement ✨. I am experienced with programming languages like Python, Java, and C++, and I’ve worked with tools like Git, Visual Studio Code, and basic webdev technologies (HTML, CSS, JavaScript).
 I am a highly motivated learner 🚀 who enjoys tackling new challenges and applying technology creatively to gather knowledge. My strengths lie in problem-solving, and I am motivated to keep learning and improving my skills. Right now, I am looking for opportunities, whether through internships, projects, or mentorship, that allow me to grow and contribute to real-world solutions.
 
 ## Website 🌐
